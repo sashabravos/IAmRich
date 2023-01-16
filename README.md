@@ -1,1 +1,1 @@
-# I-am-rich-app
+First app by Angela Yu's course
